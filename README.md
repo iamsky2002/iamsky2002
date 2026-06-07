@@ -13,6 +13,7 @@
 
 ### 🚀 Currently Building
 - 🤖 **[Multi-Agent Research Assistant](https://github.com/iamsky2002/multi-agent-research-assistant)** (LangGraph + Observability)
+- 💼 **[Full-Stack Job Portal](https://github.com/iamsky2002/JOB-PORTAL)** (Java + Spring Boot Architecture)
 - 🔨 **Document Intelligence API** (Enterprise RAG + Spring AI / FastAPI)
 - 🇪🇺 **EU AI Act Compliant RAG System** (Privacy-by-design Architecture)
 
