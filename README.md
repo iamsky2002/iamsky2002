@@ -6,8 +6,7 @@
 ---
 
 <div align="center">
-  <h2>Software Engineer | Java Backend & Applied AI</h2>
-  <i>Java backend engineer with an applied AI focus, dedicated to building robust systems that move beyond simple prototypes. I specialize in developing reliable backend applications and seamlessly integrating next-gen AI capabilities into enterprise products.</i>
+   <i>Java backend engineer with an applied AI focus, dedicated to building robust systems that move beyond simple prototypes. I specialize in developing reliable backend applications and seamlessly integrating next-gen AI capabilities into enterprise products.</i>
 </div>
 
 <br/>
