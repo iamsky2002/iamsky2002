@@ -6,7 +6,10 @@
 ---
 
 <div align="center">
-  <i>Java backend engineer with an applied AI focus. Currently building robust, scalable AI architectures that move beyond prototypes.</i>
+  <i>Software Engineer | Java Backend & Applied AI I experienced in building robust backend applications and integrating next-gen AI capabilities into enterprise products.
+
+**⚙️ Core Engineering:** Experienced with Spring Boot, Spring Security, JPA/Hibernate, REST APIs, and Docker. 🚀 Proven Builds: Developed a production-grade multi-role Job Portal and a real-time WebRTC conferencing platform. 
+**🧠 AI Integration:** Currently focused on intelligent systems leveraging OpenAI, Gemini, RAG pipelines, Vector Databases, Spring AI, and LangChain4j.Java backend engineer with an applied AI focus. Currently building robust, scalable AI architectures that move beyond prototypes.</i>
 </div>
 
 <br />
