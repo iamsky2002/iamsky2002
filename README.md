@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm SKY 👋</h1>
-  <h3> Software Engineer | Java Full-Stack & Spring Boot | Applied AI & Workflows | Building AI-Powered Systems | Learning Agentic AI </h3>
+  <h3> Software Engineer | Java Full-Stack & Spring Boot | Building AI-Powered Systems | Learning Agentic AI </h3>
 </div>
 
 ---
