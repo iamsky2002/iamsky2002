@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm SKY 👋</h1>
-  <h3>Full-Stack Java Engineer specializing in Agentic AI & Enterprise Systems</h3>
+  <h3> Software Engineer | Java Full-Stack & Spring Boot | Integrating Applied AI & Workflows | Learning Agentic AI </h3>
 </div>
 
 ---
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 **Applied AI & Agentic Systems**
