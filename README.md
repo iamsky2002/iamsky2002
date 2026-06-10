@@ -61,15 +61,6 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-<p align="left">
-  <a href="https://github.com/iamsky2002">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamsky2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="SKY's GitHub Stats" />
-  </a>
-  <a href="https://github.com/iamsky2002">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsky2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  </a>
-</p>
 
 ### 📫 Let's Connect
 <p align="left">
